@@ -1,7 +1,5 @@
 # Globex - 跨境电商 Agent（AgentScope 2.0）
 
-项目维护者为 [Apoyu（@KardeniaPoyu）](https://github.com/KardeniaPoyu)。
-
 基于 AgentScope 2.0 的跨境电商超级搜索框 Agent 系统，DDD 洋葱架构落地：
 
 - **MainAgent**（CommerceConcierge）：超级框总调度，**持有全部业务工具可直接单干**；
